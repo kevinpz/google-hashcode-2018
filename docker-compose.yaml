@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  code:
+    image: pypy:3
+    working_dir: /code
+    volumes:
+      - ./code:/code
+    command: ["pypy3", "-u", "code.py"]
