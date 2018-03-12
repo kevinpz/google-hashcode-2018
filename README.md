@@ -2,7 +2,7 @@
 
 ## Car rides scheduling problem
 
-See the (online_qualification_round_2018.pdf)[online_qualification_round_2018.pdf] file for the full description of the challenge.
+See the [online_qualification_round_2018.pdf](online_qualification_round_2018.pdf) file for the full description of the challenge.
 
 ## Current scores
 
